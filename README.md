@@ -1,6 +1,6 @@
 <h1 align="center">Hola , Soy Marti Peker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DS+%7C+ML+%7C+DA;FullStack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DE+%7C+ML+%7C+DA;Frontend+Developer;Computer+Science" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">Apasionada por el desarrollo web, la ciencia de datos y las tecnologías que impulsan la innovación. Siempre he creído en poner amor y dedicación a cada proyecto en el que trabajo.</h4>
@@ -13,10 +13,6 @@ Después de explorar varios campos, encontré mi pasión en el mundo de la tecno
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -75,16 +71,6 @@ Después de explorar varios campos, encontré mi pasión en el mundo de la tecno
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MartiPeker" src="https://github-readme-stats.vercel.app/api?username=martipekerf&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pridewolf&show_icons=true&locale=en&layout=compact&theme=algolia" alt="martipeker" height="192px"/>
-  <br/>
 
 <br/>
 
