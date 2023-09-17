@@ -20,7 +20,7 @@ Creo firmemente en la importancia de construir bases sólidas, por lo que estoy 
   HTML   CSS   Bootstrap  
 
  Databases & Cloud Hosting
-  MySQL  DBeaver GitHub-Pages  Firebase
+  MySQL  DBeaver GitHub-Pages  Firebase Cloud Storage
 
 ¡Siempre estoy abierta a nuevas oportunidades de aprendizaje y colaboración! 🚀
 
