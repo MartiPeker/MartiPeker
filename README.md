@@ -21,6 +21,8 @@ Creo firmemente en la importancia de construir bases sólidas, por lo que estoy 
 
  Databases & Cloud Hosting
   MySQL  DBeaver GitHub-Pages  Firebase Cloud Storage
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ¡Siempre estoy abierta a nuevas oportunidades de aprendizaje y colaboración! 🚀
 
