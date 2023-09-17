@@ -1,6 +1,6 @@
 <h1 align="center">Hola , Soy Marti Peker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DE+%7C+ML+%7C+DA;Frontend+Developer;Computer+Science" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DS+%7C+ML+%7C+DE;Data+Science" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">Apasionada por el desarrollo web, la ciencia de datos y las tecnologías que impulsan la innovación. Siempre he creído en poner amor y dedicación a cada proyecto en el que trabajo.</h4>
@@ -76,7 +76,6 @@ Después de explorar varios campos, encontré mi pasión en el mundo de la tecno
 
 ## 🙋🏽‍♂️  Contactame
 <p align="center">
-  <a href="https://asportfolio.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:martinaivanapeker@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/MartiPeker"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/marti-peker/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
